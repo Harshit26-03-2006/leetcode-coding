@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

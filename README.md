@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0414-third-maximum-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |

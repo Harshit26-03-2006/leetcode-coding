@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

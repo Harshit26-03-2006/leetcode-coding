@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0674-longest-continuous-increasing-subsequence) |
 ## Binary Search
 |  |
 | ------- |

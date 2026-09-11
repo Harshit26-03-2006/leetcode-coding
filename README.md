@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0219-contains-duplicate-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

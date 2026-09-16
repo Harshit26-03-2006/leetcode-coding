@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0561-array-partition) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

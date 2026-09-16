@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0035-search-insert-position) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0350-intersection-of-two-arrays-ii) |

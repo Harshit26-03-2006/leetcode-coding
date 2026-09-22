@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0561-array-partition) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |

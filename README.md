@@ -122,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0058-length-of-last-word) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0050-powx-n) |
 ## Array
 |  |
@@ -125,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

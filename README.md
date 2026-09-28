@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0118-pascals-triangle) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0283-move-zeroes) |
@@ -110,14 +112,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |

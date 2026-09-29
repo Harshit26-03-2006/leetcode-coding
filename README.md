@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0041-first-missing-positive) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0350-intersection-of-two-arrays-ii) |

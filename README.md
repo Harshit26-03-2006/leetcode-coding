@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0058-length-of-last-word) |
 ## Linked List

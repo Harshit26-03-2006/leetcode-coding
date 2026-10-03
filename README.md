@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -126,16 +127,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -181,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Harshit26-03-2006/leetcode-coding/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
